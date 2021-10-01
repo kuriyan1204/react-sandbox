@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+React公式チュートリアル
+https://ja.reactjs.org/tutorial/tutorial.html
+の課題の部分などを実装していきます．
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
